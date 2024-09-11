@@ -1,5 +1,7 @@
 # Calendar Scheduler Application
 
+[DEMO](https://yaroslavkolbaiev.github.io/calendar-vue/)
+
 This is a calendar scheduler application built with Vue.js. It allows users to create, view, and manage events in a user-friendly interface. The application supports various views such as day, week, and month, and includes features like event creation, editing, and deletion.
 
 ## Features
